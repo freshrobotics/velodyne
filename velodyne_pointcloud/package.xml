@@ -21,7 +21,7 @@
   <depend>angles</depend>
   <depend>diagnostic_updater</depend>
   <depend>geometry_msgs</depend>
-  <depend>libpcl-all-dev</depend>
+  <depend>libpcl-all-dev</depend>  <!-- pulls in qt :( -->
   <depend>message_filters</depend>
   <depend>rclcpp</depend>
   <depend>rclcpp_components</depend>
